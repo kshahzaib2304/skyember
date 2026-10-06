@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#F7F9FC">
+
+    <title>SKYEMBER — Contact</title>
+<meta name="description" content="Send SKYEMBER a short brief about the software you need, or write to hello@skyember.com. We read it and reply with a clear next step.">
+<link rel="canonical" href="http://127.0.0.1:8000/contact">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SKYEMBER">
+<meta property="og:title" content="SKYEMBER — Contact">
+<meta property="og:description" content="Send SKYEMBER a short brief about the software you need, or write to hello@skyember.com. We read it and reply with a clear next step.">
+<meta property="og:url" content="http://127.0.0.1:8000/contact">
+<meta property="og:image" content="http://127.0.0.1:8000/images/brand/mark-320.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SKYEMBER — Contact">
+<meta name="twitter:description" content="Send SKYEMBER a short brief about the software you need, or write to hello@skyember.com. We read it and reply with a clear next step.">
+<meta name="twitter:image" content="http://127.0.0.1:8000/images/brand/mark-320.png">
+
+<script type="application/ld+json">
+{
+    "<?php $__contextArgs = [];\nif (context()->has($__contextArgs[0])) :\nif (isset($value)) { $__contextPrevious[] = $value; }\n$value = context()->get($__contextArgs[0]); ?>": "https://schema.org",
+    "@type": "Organization",
+    "name": "SKYEMBER",
+    "url": "http://127.0.0.1:8000",
+    "logo": "http://127.0.0.1:8000/images/brand/mark.png",
+    "description": "We design and engineer custom software, business platforms, and digital products for organizations ready to move beyond off-the-shelf tools.",
+    "email": "hello@skyember.com",
+    "slogan": "Software solutions for a smarter tomorrow",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "business inquiries",
+        "email": "hello@skyember.com",
+        "url": "http://127.0.0.1:8000/contact",
+        "availableLanguage": "English"
+    }
+}
+</script>
+
+        <script type="application/ld+json">
+    {
+    "<?php $__contextArgs = [];\nif (context()->has($__contextArgs[0])) :\nif (isset($value)) { $__contextPrevious[] = $value; }\n$value = context()->get($__contextArgs[0]); ?>": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "ContactPage",
+            "name": "Contact SKYEMBER",
+            "url": "http://127.0.0.1:8000/contact",
+            "description": "Send SKYEMBER a short brief about the software you need, or write to hello@skyember.com. We read it and reply with a clear next step.",
+            "mainEntity": {
+                "@type": "Organization",
+                "name": "SKYEMBER",
+                "url": "http://127.0.0.1:8000",
+                "email": "hello@skyember.com"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "http://127.0.0.1:8000"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Contact",
+                    "item": "http://127.0.0.1:8000/contact"
+                }
+            ]
+        }
+    ]
+}
+    </script>
+
+    <link rel="icon" href="http://127.0.0.1:8000/images/brand/mark.png" type="image/png">
+
+    <script type="module" src="http://[::1]:5173/@vite/client"></script><link rel="stylesheet" href="http://[::1]:5173/resources/css/app.css" /><script type="module" src="http://[::1]:5173/resources/js/app.js"></script></head>
+<body class="min-h-screen bg-background text-foreground">
+    <a href="#main" class="skip-link">Skip to content</a>
+
+    <header class="sticky top-0 z-50 border-b border-border/80 bg-background/85 backdrop-blur-md">
+    <div class="container-sky flex h-16 items-center justify-between gap-4 md:h-[4.25rem]">
+        <a href="http://127.0.0.1:8000" class="group flex items-center gap-2.5" aria-label="SKYEMBER home">
+            <img
+                src="http://127.0.0.1:8000/images/brand/mark.png"
+                alt=""
+                width="36"
+                height="36"
+                class="h-9 w-9 object-contain"
+                decoding="async"
+            >
+            <span class="font-display text-[1.05rem] font-bold tracking-[0.04em] text-foreground md:text-[1.125rem]">
+                SKYEMBER
+            </span>
+        </a>
+
+        <nav class="hidden items-center gap-8 lg:flex" aria-label="Primary">
+                            <a
+                    href="http://127.0.0.1:8000/#capabilities"
+                                        class="text-sm font-medium text-muted transition-colors hover:text-foreground "
+                >
+                    Solutions
+                </a>
+                            <a
+                    href="#"
+                     aria-disabled="true" tabindex="-1"                     class="text-sm font-medium text-muted transition-colors hover:text-foreground pointer-events-none opacity-55"
+                >
+                    Services
+                </a>
+                            <a
+                    href="#"
+                     aria-disabled="true" tabindex="-1"                     class="text-sm font-medium text-muted transition-colors hover:text-foreground pointer-events-none opacity-55"
+                >
+                    Work
+                </a>
+                            <a
+                    href="#"
+                     aria-disabled="true" tabindex="-1"                     class="text-sm font-medium text-muted transition-colors hover:text-foreground pointer-events-none opacity-55"
+                >
+                    Company
+                </a>
+                    </nav>
+
+        <div class="flex items-center gap-3">
+            <a href="#brief" class="btn btn-primary !px-4 !py-2.5 text-sm" aria-current="page">
+        Let’s Talk
+    </a>
+
+            <button
+                type="button"
+                class="inline-flex h-10 w-10 items-center justify-center rounded-md border border-border text-foreground lg:hidden"
+                data-nav-toggle
+                aria-expanded="false"
+                aria-controls="mobile-nav"
+                aria-label="Open menu"
+            >
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+                    <path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <div id="mobile-nav" class="hidden border-t border-border bg-background lg:hidden" data-mobile-nav>
+        <nav class="container-sky flex flex-col gap-1 py-4" aria-label="Mobile">
+                            <a
+                    href="http://127.0.0.1:8000/#capabilities"
+                                        class="rounded-md px-3 py-3 text-sm font-medium text-muted hover:bg-surface-hover hover:text-foreground"
+                >
+                    Solutions
+                </a>
+                            <a
+                    href="#"
+                     aria-disabled="true" tabindex="-1"                     class="rounded-md px-3 py-3 text-sm font-medium text-muted pointer-events-none opacity-55"
+                >
+                    Services
+                </a>
+                            <a
+                    href="#"
+                     aria-disabled="true" tabindex="-1"                     class="rounded-md px-3 py-3 text-sm font-medium text-muted pointer-events-none opacity-55"
+                >
+                    Work
+                </a>
+                            <a
+                    href="#"
+                     aria-disabled="true" tabindex="-1"                     class="rounded-md px-3 py-3 text-sm font-medium text-muted pointer-events-none opacity-55"
+                >
+                    Company
+                </a>
+                        <a href="#brief"  aria-current="page"  class="rounded-md px-3 py-3 text-sm font-semibold text-primary">
+                Let’s Talk
+            </a>
+        </nav>
+    </div>
+</header>
+
+    <main id="main">
+            <section class="contact-page" aria-labelledby="contact-heading">
+        <div class="container-sky contact-grid">
+            <nav class="contact-crumb" aria-label="Breadcrumb">
+                <ol>
+                    <li>
+                        <a href="http://127.0.0.1:8000">Home</a>
+                        <span aria-hidden="true">/</span>
+                    </li>
+                    <li aria-current="page">Contact</li>
+                </ol>
+            </nav>
+
+            <h1 id="contact-heading" class="contact-title">
+                <span>Tell us what</span>
+                <span>you're trying</span>
+                <span>to solve.</span>
+            </h1>
+
+            <p class="text-body contact-summary">
+                A short brief is enough. We read it and reply with the next step.
+            </p>
+
+            <div class="contact-direct">
+                <p class="text-eyebrow">Direct</p>
+                <a class="contact-mail" href="mailto:hello@skyember.com">hello@skyember.com</a>
+                <p class="text-small contact-direct-note">Write directly if you already know what to say.</p>
+            </div>
+
+            <form
+                id="brief"
+                class="contact-form"
+                method="post"
+                action="http://127.0.0.1:8000/contact"
+                accept-charset="UTF-8"
+                novalidate
+                aria-labelledby="contact-heading"
+            >
+                <input type="hidden" name="_token" value="fHz9J00VJ9xZ70VPNvGt2PynMTO37IwYByP2ZktR" autocomplete="off">
+                <div class="contact-trap" aria-hidden="true">
+                    <label for="company-website">Company website</label>
+                    <input id="company-website" type="text" name="company_website" tabindex="-1" autocomplete="off" value="">
+                </div>
+
+                
+                
+                <div class="contact-field ">
+                    <label for="name">Name</label>
+                    <input
+                        id="name"
+                        name="name"
+                        type="text"
+                        value=""
+                        autocomplete="name"
+                        maxlength="120"
+                        required
+                        spellcheck="false"
+                                            >
+                                    </div>
+
+                <div class="contact-field ">
+                    <label for="email">Work email</label>
+                    <input
+                        id="email"
+                        name="email"
+                        type="email"
+                        value=""
+                        autocomplete="email"
+                        inputmode="email"
+                        autocapitalize="none"
+                        maxlength="160"
+                        required
+                        spellcheck="false"
+                                            >
+                                    </div>
+
+                <div class="contact-field ">
+                    <label for="organization">Organization</label>
+                    <input
+                        id="organization"
+                        name="organization"
+                        type="text"
+                        value=""
+                        autocomplete="organization"
+                        maxlength="160"
+                        required
+                        spellcheck="false"
+                                            >
+                                    </div>
+
+                <fieldset class="contact-kinds" >
+                    <legend>
+                        What kind of system
+                        <span class="contact-optional">Optional</span>
+                    </legend>
+                                            <label class="contact-choice" for="kind-business">
+                            <input
+                                id="kind-business"
+                                type="radio"
+                                name="kind"
+                                value="business"
+                                                            >
+                            <span>Business software</span>
+                        </label>
+                                            <label class="contact-choice" for="kind-product">
+                            <input
+                                id="kind-product"
+                                type="radio"
+                                name="kind"
+                                value="product"
+                                                            >
+                            <span>Digital product</span>
+                        </label>
+                                            <label class="contact-choice" for="kind-automation">
+                            <input
+                                id="kind-automation"
+                                type="radio"
+                                name="kind"
+                                value="automation"
+                                                            >
+                            <span>AI and automation</span>
+                        </label>
+                                            <label class="contact-choice" for="kind-cloud">
+                            <input
+                                id="kind-cloud"
+                                type="radio"
+                                name="kind"
+                                value="cloud"
+                                                            >
+                            <span>Cloud and engineering</span>
+                        </label>
+                                            <label class="contact-choice" for="kind-unsure">
+                            <input
+                                id="kind-unsure"
+                                type="radio"
+                                name="kind"
+                                value="unsure"
+                                                            >
+                            <span>Not sure yet</span>
+                        </label>
+                                                        </fieldset>
+
+                <div class="contact-field ">
+                    <label for="problem">The problem</label>
+                    <textarea
+                        id="problem"
+                        name="problem"
+                        rows="6"
+                        maxlength="1200"
+                        required
+                        spellcheck="true"
+                        aria-describedby="problem-hint"
+                                            ></textarea>
+                    <p class="contact-hint" id="problem-hint">A few sentences about the operation, the product, or the constraint.</p>
+                                    </div>
+
+                <div class="contact-actions">
+                    <button type="submit" class="btn btn-primary">
+                        Continue in email
+                    </button>
+                </div>
+
+                <p class="contact-note">
+                    You will get the finished brief in your email, addressed to hello@skyember.com. Nothing is sent until you send it there.
+                </p>
+            </form>
+        </div>
+    </section>
+    </main>
+
+    <footer class="border-t border-border bg-surface">
+    <div class="container-sky flex flex-col gap-6 py-10 sm:flex-row sm:items-center sm:justify-between md:py-12">
+        <a href="http://127.0.0.1:8000" class="flex items-center gap-2.5" aria-label="SKYEMBER home">
+            <img
+                src="http://127.0.0.1:8000/images/brand/mark.png"
+                alt=""
+                width="28"
+                height="28"
+                class="h-7 w-7 object-contain"
+                loading="lazy"
+                decoding="async"
+            >
+            <span class="font-display text-sm font-bold tracking-[0.08em] text-foreground">SKYEMBER</span>
+        </a>
+
+        <a href="mailto:hello@skyember.com" class="text-sm font-medium text-foreground">
+            hello@skyember.com
+        </a>
+    </div>
+
+    <div class="border-t border-border">
+        <div class="container-sky flex flex-col gap-2 py-5 text-small sm:flex-row sm:items-center sm:justify-between">
+            <p>&copy; 2026 SKYEMBER. All rights reserved.</p>
+            <p class="tracking-[0.12em] uppercase">Software solutions for a smarter tomorrow</p>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
