@@ -13,8 +13,8 @@
             <span class="font-display text-sm font-bold tracking-[0.08em] text-foreground">SKYEMBER</span>
         </a>
 
-        <a href="mailto:hello@skyember.com" class="text-sm font-medium text-foreground">
-            hello@skyember.com
+        <a href="mailto:info@skyember.com" class="text-sm font-medium text-foreground">
+            info@skyember.com
         </a>
     </div>
 

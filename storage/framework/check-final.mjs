@@ -106,7 +106,7 @@ for (const width of widths) {
                 talk: document.querySelector('header a[href="#final-cta"], header a.inline-flex') ? document.querySelector('[href="#final-cta"]')?.getAttribute('href') : null,
                 talkCount: document.querySelectorAll('[href="#final-cta"]').length,
                 footerQuestion: footer.innerText.includes('worth building'),
-                footerEmail: footer.innerText.includes('hello@skyember.com'),
+                footerEmail: footer.innerText.includes('info@skyember.com'),
                 columns: band.gridTemplateColumns,
                 gapAfterProcess: gap,
                 errors: ${JSON.stringify(errors)},
